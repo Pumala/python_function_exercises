@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plot
+# Write a function f(x) that returns x + 1 and plot it for x values of -3 to 3 in increments of 1.
 
 def f(x):
     return x + 1
